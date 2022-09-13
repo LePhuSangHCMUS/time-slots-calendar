@@ -61,7 +61,4 @@
     "enzyme-adapter-react-16": "^1.14.0",
     "moment": "^2.18.1"
   },
-  "peerDependencies": {
-    "react": "^15.5.4"
-  }
 }
